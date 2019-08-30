@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(mono.Me)
+	fmt.Println(me.Me)
 }
