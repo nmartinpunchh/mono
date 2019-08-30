@@ -8,6 +8,6 @@ import (
 )
 
 func main() {
-	fmt.Printf("Importing from %s %s", me.Me, me.Version)
-	fmt.Printf("Importing from %s %s", you.You, you.Version)
+	fmt.Printf("Importing from %s %s\n", me.Me, me.Version)
+	fmt.Printf("Importing from %s %s\n", you.You, you.Version)
 }
