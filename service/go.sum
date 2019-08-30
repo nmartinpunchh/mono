@@ -6,3 +6,5 @@ github.com/hunterpunchh/mono v0.0.0-20190830183701-5c4e1f41e85d h1:ll3qNjRH8Z1Ub
 github.com/hunterpunchh/mono v0.0.0-20190830183701-5c4e1f41e85d/go.mod h1:qA1U9eDVGHtlz0Lk/9Bae64MPU/3o9NMcrWb46cu9oE=
 github.com/nmartinpunchh/mono v0.0.0-20190830183456-a6ed0c6496b2 h1:IGgxgFdwu+OdDDI82fViv58NPula+L4mGTx1lbuPMLE=
 github.com/nmartinpunchh/mono v0.0.0-20190830183456-a6ed0c6496b2/go.mod h1:ecqwbhbXakAWOMEXLmB1i8v6LGBjssZDkfgkuD7pHvw=
+github.com/nmartinpunchh/mono v0.0.0-20190830185208-6e7843727d6d h1:x14Ifgk0G3mTdwAtyN54kSyA+WGO8FrTw215cLt0E7k=
+github.com/nmartinpunchh/mono v0.0.0-20190830185208-6e7843727d6d/go.mod h1:ecqwbhbXakAWOMEXLmB1i8v6LGBjssZDkfgkuD7pHvw=
