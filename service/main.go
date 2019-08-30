@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/hunterpunchh/mono/imp/me"
-	"github.com/hunterpunchh/mono/imp/you"
+	"github.com/nmartinpunchh/mono/imp/me"
+	"github.com/nmartinpunchh/mono/imp/you"
 )
 
 func main() {
